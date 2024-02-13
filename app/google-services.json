@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "742534713666",
+    "project_id": "classup-8f63c",
+    "storage_bucket": "classup-8f63c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742534713666:android:e6c4c30956fabd2f98b8db",
+        "android_client_info": {
+          "package_name": "com.example.classup.navneet122CS0958"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAStSwt-pjSMSwc0B4-ImX2h8gvcoIDho4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
